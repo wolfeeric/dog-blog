@@ -1,0 +1,11 @@
+h3.listA {
+  color: blue;
+  font-style: italic;
+  font-weight: bolder;
+}
+
+img.shadow {
+  border: 2px solid black;
+  padding: 10px;
+  box-shadow: 5px 12px black;
+}
